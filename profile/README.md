@@ -10,8 +10,6 @@ This is a collection of links, papers, talk and presentations related to the DeG
 * [LPCC Fast Detector Simulation Workshop](https://indico.cern.ch/event/1087522/timetable/)
 * There is a mattermost channel but you need to ask us access first.
 
-<!-- * [Mattermost Channel of the project](https://mattermost.web.cern.ch/signup_user_complete/?id=qbe89xy5zff4mryrjooxbx749a) -->
-
 ## Contact: 
 * [Moritz Scham](mailto:mova@users.noreply.github.com)
 * [Evelyn Coronel](mailto:astrocronopio@users.noreply.github.com)
