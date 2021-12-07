@@ -13,15 +13,5 @@ This is a collection of links, papers, talk and presentations related to the DeG
 
 
 ## Contact: 
-
-### CMS
-
-* Moritz Scham
-<!-- * Moritz Scham:  [moritz.scham@desy.de](mailto:moritz.scham@desy.de) -->
-
-### ATLAS
-
-* Evelyn Coronel: [evelyn.coronel@desy.de](mailto:evelyn.coronel@desy.de)
-
-
-
+* [Moritz Scham](mailto:mova@users.noreply.github.com)
+* [Evelyn Coronel](mailto:astrocronopio@users.noreply.github.com)
