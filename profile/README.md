@@ -12,4 +12,3 @@ This is a collection of links, papers, talk and presentations related to the DeG
 
 ## Contact: 
 * [Moritz Scham](mailto:mova@users.noreply.github.com)
-* [Evelyn Coronel](mailto:astrocronopio@users.noreply.github.com)
